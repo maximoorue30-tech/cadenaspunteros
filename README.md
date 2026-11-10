@@ -13,7 +13,7 @@ El programa implementa un sistema básico de control de acceso por edad. Para el
 El proyecto tiene como finalidad aplicar conceptos fundamentales de programación en C++, comprender la relación entre las variables, los punteros y las direcciones de memoria, y utilizar estructuras condicionales para validar los datos ingresados.
 
 Integrantes
-Federico Mattia — Desarrollo del programa, implementación de punteros y documentación técnica.
+Maximo Orue — Desarrollo del programa, implementación de punteros y documentación técnica.
 Requisitos e Instalación
 Para compilar y ejecutar el proyecto, se necesitan las siguientes herramientas:
 
@@ -90,7 +90,7 @@ CADENASPUNTEROS/
     └── esquema_ram.png
 Ejemplo de Ejecución
 =====================================================
-   CONTROL DE ACCESO RAM - ESTUDIANTE: Federico Mattia
+   CONTROL DE ACCESO RAM - ESTUDIANTE: Maximo Orue
 =====================================================
 => Ingrese su edad: 20
 
